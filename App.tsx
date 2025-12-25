@@ -929,7 +929,7 @@ const Footer = () => {
             </h4>
             <div className="flex flex-col space-y-3">
               <a
-                href="https://www.youtube.com/@SenseiGaming"
+                href="https://www.youtube.com/@SENSEIOGyt"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-red-600 transition-colors flex items-center justify-center md:justify-start gap-3"
@@ -945,7 +945,7 @@ const Footer = () => {
                 <Ghost size={18} /> @sensei.og
               </a>
               <a
-                href="#"
+                href="https://discord.gg/k4xbGAQnwY"
                 className="text-gray-500 hover:text-red-600 transition-colors flex items-center justify-center md:justify-start gap-3"
               >
                 <Target size={18} /> Discord Hub
