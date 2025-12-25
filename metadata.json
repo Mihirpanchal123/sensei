@@ -1,0 +1,7 @@
+{
+  "name": "SENSEI - Professional BGMI Athlete",
+  "description": "The official portfolio of Deepak 'SENSEI' Negi, India's premier IGL and esports athlete, featuring tournament wins, gaming setup, and tactical playbooks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
